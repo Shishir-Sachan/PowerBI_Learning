@@ -1,10 +1,6 @@
 # PowerBI_Learning
-![PowerBI1](https://github.com/user-attachments/assets/e77bf348-6bcb-4a75-9f80-92363de55573)
-![powerbi2](https://github.com/user-attachments/assets/a980b21e-1050-4404-9a75-8ddfc51f1a5d)
-![powerbi3](https://github.com/user-attachments/assets/d6a7295f-df04-432e-81b3-49755e7e3ebd)
-![powerbi4](https://github.com/user-attachments/assets/5452d3c0-4c44-4c1a-924a-563b82e659f4)
-
-
-
-
-
+![powerbiR1](https://github.com/user-attachments/assets/5d641e37-a6d3-4a4b-9935-df696b348366)
+![powerbiR2](https://github.com/user-attachments/assets/8b6c58b3-9cf7-4464-baab-8ecc82676078)
+![powerbiR3](https://github.com/user-attachments/assets/fb677aee-8d63-48cb-b769-585177e82de8)
+![powerbiR4](https://github.com/user-attachments/assets/e7420525-a32f-4d02-b8ef-d4ccb3c8a0bf)
+![powerbiR5](https://github.com/user-attachments/assets/444cee83-0be9-42d2-ad24-f02a5fb51fc0)
